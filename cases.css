@@ -1,0 +1,29 @@
+
+#cases>ul{
+    display: flex;
+    list-style: none;
+    justify-self: center;
+    padding: 0;
+}
+#cases>ul>li{
+    width: 33%;
+    margin: 20px;
+}
+.case-card{
+    background-color: #FFFFFF;
+    min-height: 400px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+.case-img{
+    width: 100%;
+}
+.case-info{
+    padding: 10px 20px;
+}
+.casa-name{
+    color: #2710d5;
+    font-size: 19px;
+}
+.case-content{
+    font-size: 14px;
+}
